@@ -1,0 +1,10 @@
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\bin\Debug\FlatThemeCL.dll
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\bin\Debug\FlatThemeCL.pdb
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\bin\Debug\CLCore.dll
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\bin\Debug\CLCore.pdb
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\bin\Debug\CLCore.dll.config
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\obj\Debug\FlatThemeCL.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\obj\Debug\FlatThemeCL.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\obj\Debug\FlatThemeCL.csproj.CopyComplete
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\obj\Debug\FlatThemeCL.dll
+C:\Users\crist\OneDrive\Documents\develop\FlatThemeCL\FlatThemeCL\FlatThemeCL\obj\Debug\FlatThemeCL.pdb
